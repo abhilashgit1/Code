@@ -1,0 +1,1 @@
+DELETE FROM Mobile_Details WHERE Mobile_Name='Realme';

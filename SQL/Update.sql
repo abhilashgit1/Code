@@ -1,0 +1,1 @@
+UPDATE Mobile_Records SET Mobile_Name='Apple',Mobile_cost=50000 WHERE Mobile_Number=1;
